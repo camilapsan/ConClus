@@ -49,7 +49,7 @@
 
 		mkdir output
 
-		./ConClus_release.out "graph_example/" "karate" "output/" 0
+		./ConClus_release.out "graph_example/" "karate" "output/" 1 0
 
 	---------------
 	#Inputs
