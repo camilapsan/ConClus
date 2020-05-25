@@ -47,9 +47,9 @@
 	
 	Example:
 
-			mkdir output
+		mkdir output
 
-			./ConClus_release.out "graph_example/" "karate" "output/" 0
+		./ConClus_release.out "graph_example/" "karate" "output/" 0
 
 	---------------
 	#Inputs
@@ -72,6 +72,7 @@
 				   0 for unweighted digraphs
 	---------------
 	#Output:
-		Partition: "part_<file_input>_<lambda>.000000.com" in <folder_output>
+
+	Partition: "part_<file_input>_<lambda>.000000.com" in <folder_output>
 
 ---------------------------------------------------------
