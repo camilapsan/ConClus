@@ -37,13 +37,13 @@
 
 ---------------------------------------------------------
 3. Run (terminal)
-	./ML_11_spec.out <folder_input/> <file_input> <folder_output/> <lambda> <weighted>
+	./ConClus_release.out <folder_input/> <file_input> <folder_output/> <lambda> <weighted>
 
 	Obs: < > is used only to indicate the parameters.
 	
 	Example:
 			mkdir output
-			./ML_11_spec.out "grafos_nao_direcionados/" "karate" "output/" 0
+			./ConClus_release.out "grafos_nao_direcionados/" "karate" "output/" 0
 
 	---------------
 	#Inputs
