@@ -70,7 +70,7 @@
 			Classic modularity: <lambda>= 1
 
 		<weighted>: 1 for weighted digraphs
-				   0 for unweighted digraphs
+			    0 for unweighted digraphs
 	---------------
 	#Output:
 
