@@ -22,6 +22,8 @@
 *
 *****************************************************************************/
 
+---------------------------------------------------------
+
 1. Dependencies
 	C++ 2011
 
@@ -33,16 +35,20 @@
 	OR
 	
 	mkdir obj
+
 	make
 
 ---------------------------------------------------------
 3. Run (terminal)
+	
 	./ConClus_release.out <folder_input/> <file_input> <folder_output/> <lambda> <weighted>
 
 	Obs: < > is used only to indicate the parameters.
 	
 	Example:
+
 			mkdir output
+
 			./ConClus_release.out "graph_example/" "karate" "output/" 0
 
 	---------------
@@ -62,7 +68,7 @@
 			Classic modularity: <lambda>= 1
 
 		<weighted>: 1 for weighted digraphs
-				    0 for unweighted digraphs
+				   0 for unweighted digraphs
 	---------------
 	#Output:
 		Partition: "part_<file_input>_<lambda>.000000.com" in <folder_output>
