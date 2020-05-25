@@ -43,7 +43,7 @@
 	
 	Example:
 			mkdir output
-			./ConClus_release.out "grafos_nao_direcionados/" "karate" "output/" 0
+			./ConClus_release.out "graph_example/" "karate" "output/" 0
 
 	---------------
 	#Inputs
