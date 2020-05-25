@@ -1,0 +1,22 @@
+graph->LAMBDA_ML = 1.000000	Solucao = 0.471533
+Tempo = 0.081405
+graph->LAMBDA_ML = 1.000000	Solucao = 0.471533
+Tempo = 0.002519
+graph->LAMBDA_ML = 1.000000	Solucao = 0.471533
+Tempo = 0.002457
+graph->LAMBDA_ML = 1.000000	Solucao = 0.403353
+Tempo = 0.014275
+graph->LAMBDA_ML = 1.000000	Solucao = 0.471533
+Tempo = 0.004051
+graph->LAMBDA_ML = 1.000000	Solucao = 0.405983
+Tempo = 0.016999
+graph->LAMBDA_ML = 1.000000	Solucao = 0.403353
+Tempo = 0.004782
+graph->LAMBDA_ML = 1.000000	Solucao = 0.403353
+Tempo = 0.015010
+graph->LAMBDA_ML = 1.000000	Solucao = 0.403353
+Tempo = 0.015070
+graph->LAMBDA_ML = 1.000000	Solucao = 0.403353
+Tempo = 0.013449
+graph->LAMBDA_ML = 1.000000	Solucao = 0.403353
+Tempo = 0.004297
