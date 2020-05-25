@@ -30,18 +30,18 @@
 ---------------------------------------------------------
 2. Compile
 	
-	bash compile.sh
+		bash compile.sh
 	
 	OR
 	
-	mkdir obj
+		mkdir obj
 
-	make
+		make
 
 ---------------------------------------------------------
 3. Run (terminal)
 	
-	./ConClus_release.out <folder_input/> <file_input> <folder_output/> <lambda> <weighted>
+		./ConClus_release.out <folder_input/> <file_input> <folder_output/> <lambda> <weighted>
 
 	Obs: < > is used only to indicate the parameters.
 	
@@ -53,7 +53,8 @@
 
 	---------------
 	#Inputs
-		The parameters for the algorithm are: 
+
+	The parameters for the algorithm are: 
 	
 		<folder_input/>: path to the folder where the input digraph is located, must end with /
 
